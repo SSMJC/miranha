@@ -1,0 +1,20 @@
+body{
+    color:blue;
+    background:black;
+}
+header{
+    border-bottom: solid 2px purple;
+    padding: 0px; 
+    font-size: 32px;
+    color: purple;
+}
+section{
+    background: white;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+.chamada-texto {
+ margin-right: 5%
+} 
